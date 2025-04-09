@@ -6,10 +6,7 @@ kg_lb = 2.20
 km_mile = 0.62
 l_gal = 0.99
 
-kg_pocet = 999
-km_pocet = 54
-l_pocet = 5
-milili = "tr"
+
 
 kg_vysledek = kg_pocet * kg_lb
 km_vysledek = km_pocet * km_mile
