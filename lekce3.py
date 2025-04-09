@@ -1,7 +1,7 @@
 slovnik = dict()
 slovnik = {"jmeno" : "jakub","vek" : 20, "vyska" : 175, "vaha" : 77, 
         "zájmy": ["programování","sport","cestování"], 
-        "kontakt":("adresa","telefon"),
+        "kontakt":("adresa","telefon","email"),
         "mesta":{"praha":"nuda","brno":"zábava","olomouc":"pohoda"},
         "auto":None,}
 print(type(slovnik))
