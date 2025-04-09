@@ -1,4 +1,4 @@
-text = "indexování"
+text = "indání"
 
 print("Prvních 5 písmen:\n", text[:5],"\nPosledních 5 písmen:\n", text[-5:],"\nKaždé třetí písmeno (počínaje prvním) od 'i':\n", text[::3])
 
@@ -6,9 +6,10 @@ kg_lb = 2.20
 km_mile = 0.62
 l_gal = 0.26
 
-kg_pocet = 80
+kg_pocet = 999
 km_pocet = 54
 l_pocet = 5
+milili = "tr"
 
 kg_vysledek = kg_pocet * kg_lb
 km_vysledek = km_pocet * km_mile
