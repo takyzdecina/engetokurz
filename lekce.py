@@ -4,7 +4,7 @@ print("Prvních 5 písmen:\n", text[:5],"\nPosledních 5 písmen:\n", text[-5:],
 
 kg_lb = 2.20
 km_mile = 0.62
-l_gal = 0.26
+l_gal = 0.99
 
 kg_pocet = 80
 km_pocet = 54
